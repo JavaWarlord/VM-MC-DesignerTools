@@ -1,0 +1,11 @@
+name: DesignerTools
+version: 0.0
+description: Tools to help builders and designers.
+author: JavaWarlord
+website: www.valiantmarauders.com
+main: com.valiantmarauders.minecraft.designertools.DesignerTools
+commands:
+  dtool:
+    description: Main command
+    aliases: [dt]
+    usage: /<command> [parameters]
